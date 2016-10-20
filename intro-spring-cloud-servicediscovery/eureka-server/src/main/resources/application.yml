@@ -1,0 +1,17 @@
+server:
+  port: 80
+ 
+logging:
+  level:
+    root: info
+
+spring:
+  application:
+    name: TestService
+  
+eureka:
+  client:
+    register-with-eureka: false
+    fetch-registry: false
+    serviceUrl:
+      defaultZone: http://localhost/eureka/
