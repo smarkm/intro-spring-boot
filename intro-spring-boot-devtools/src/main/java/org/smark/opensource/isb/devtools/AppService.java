@@ -8,7 +8,9 @@ public class AppService {
 
 	@Value("${spring.application.name}")
 	String name;
-	
+	static{
+		System.out.println("hello from "+AppService.class.getName());
+	}
 	public void hello() {
 		System.out.println("hello from : "+name);
 	}

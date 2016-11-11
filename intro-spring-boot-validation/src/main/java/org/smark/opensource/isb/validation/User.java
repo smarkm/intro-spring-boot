@@ -2,18 +2,16 @@ package org.smark.opensource.isb.validation;
 
 import javax.validation.constraints.NotNull;
 
-import lombok.Data;
-
-@Data
 public class User {
 	
-	@NotNull( message="name cannot be null")
+	@NotNull( message="{user.name.null}")
 	public String getName() {
 		return name;
 	}
 	public void setName(String name) {
 		this.name = name;
 	}
+	@NotNull( message="password cannot be null")
 	public String getPassword() {
 		return password;
 	}

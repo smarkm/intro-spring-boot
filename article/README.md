@@ -5,8 +5,6 @@
 	Spring Boot 入门实现分析（2）
 	Spring Boot DevTools
 	Spring Boot DevTools 原理分析
-	Spring Boot AOP
-	Spring Boot AOP 原理分析
 	Spring Boot Validation
 	Spring Boot Validation 原理分析
 	Spring Boot 创建定时任务
