@@ -50,5 +50,7 @@
 	<modules>
 		<module>eureka-server</module>
 		<module>hello-service</module>
+
+		<module>eureka-client</module>
 	</modules>
 </project>
