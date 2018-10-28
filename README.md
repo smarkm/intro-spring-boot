@@ -32,6 +32,9 @@
 	Spring Boot Web Service
 	Spring Boot Web Session
 	
+	#Actuator
+	
+	
 # Spring Cloud
 	
 	

@@ -12,7 +12,6 @@ import org.springframework.cache.support.SimpleCacheManager;
 import org.springframework.context.annotation.Bean;
 
 @SpringBootApplication
-@AutoConfigureCache
 @CacheConfig
 public class IntroSpringBootCacheApplication {
 	@Bean
