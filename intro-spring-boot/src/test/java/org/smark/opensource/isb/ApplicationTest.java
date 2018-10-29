@@ -1,7 +1,7 @@
 package org.smark.opensource.isb;
 
 import org.junit.Test;
-import org.smark.opensource.isb.service.AppService;
+import org.smark.opensource.isb.webmybatis.AppService;
 import org.springframework.context.ApplicationContext;
 import org.springframework.context.annotation.AnnotationConfigApplicationContext;
 

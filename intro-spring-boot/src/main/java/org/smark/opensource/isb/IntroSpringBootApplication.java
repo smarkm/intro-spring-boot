@@ -1,6 +1,6 @@
 package org.smark.opensource.isb;
 
-import org.smark.opensource.isb.service.AppService;
+import org.smark.opensource.isb.webmybatis.AppService;
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 import org.springframework.context.ConfigurableApplicationContext;

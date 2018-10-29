@@ -1,3 +1,3 @@
 
 * Init
-* Add Listener via Code or /META-INF/spring.factories
+* Add Listener via Code or /META-INF/spring.facwtories
