@@ -4,8 +4,10 @@ import org.smark.opensource.isb.webmybatis.AppService;
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 import org.springframework.context.ConfigurableApplicationContext;
+import org.springframework.context.annotation.ComponentScan;
 
 @SpringBootApplication
+@ComponentScan("org.smark.opensource")
 public class IntroSpringBootApplication {
 	
 	
