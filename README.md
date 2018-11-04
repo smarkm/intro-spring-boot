@@ -1,33 +1,33 @@
-#Spring Stack
+# Spring Stack
 
 ## Spring Boot
-	Spring Boot ÈëÃÅ£¨1£©£¨ºËĞÄÄ£¿é£¬°üÀ¨×Ô¶¯ÅäÖÃÖ§³Ö¡¢ÈÕÖ¾ºÍYAML | ²âÊÔÄ£¿é£¬°üÀ¨JUnit¡¢Hamcrest¡¢Mockito£©
-	Spring Boot ÈëÃÅÊµÏÖ·ÖÎö£¨2£©
+	Spring Boot å…¥é—¨ï¼ˆ1ï¼‰ï¼ˆæ ¸å¿ƒæ¨¡å—ï¼ŒåŒ…æ‹¬è‡ªåŠ¨é…ç½®æ”¯æŒã€æ—¥å¿—å’ŒYAML | æµ‹è¯•æ¨¡å—ï¼ŒåŒ…æ‹¬JUnitã€Hamcrestã€Mockitoï¼‰
+	Spring Boot å…¥é—¨å®ç°åˆ†æï¼ˆ2ï¼‰
 	Spring Boot DevTools
-	Spring Boot DevTools Ô­Àí·ÖÎö
+	Spring Boot DevTools åŸç†åˆ†æ
 	Spring Boot AOP
-	Spring Boot AOP Ô­Àí·ÖÎö
+	Spring Boot AOP åŸç†åˆ†æ
 	Spring Boot Security
-	Spring Boot Security Ô­Àí·ÖÎö
+	Spring Boot Security åŸç†åˆ†æ
 	Spring Boot Validation
-	Spring Boot Validation Ô­Àí·ÖÎö
-	Spring Boot ´´½¨¶¨Ê±ÈÎÎñ
-	Spring Boot ´´½¨¶¨Ê±ÈÎÎñ Ô­Àí·ÖÎö
-	Spring Boot ·¢ËÍÓÊ¼ş
+	Spring Boot Validation åŸç†åˆ†æ
+	Spring Boot åˆ›å»ºå®šæ—¶ä»»åŠ¡
+	Spring Boot åˆ›å»ºå®šæ—¶ä»»åŠ¡ åŸç†åˆ†æ
+	Spring Boot å‘é€é‚®ä»¶
 	Spring Boot cashe
 	
 	#db
-	Spring Boot Ê¹ÓÃMybatis²Ù×÷mysql
-	Spring Boot Ê¹ÓÃData-JPA
-	Spring Boot Ê¹ÓÃRedis
-	Spring Boot Ê¹ÓÃMongodb
-	Spring Boot Ê¹ÓÃÊÂÎñ¹ÜÀí
+	Spring Boot ä½¿ç”¨Mybatisæ“ä½œmysql
+	Spring Boot ä½¿ç”¨Data-JPA
+	Spring Boot ä½¿ç”¨Redis
+	Spring Boot ä½¿ç”¨Mongodb
+	Spring Boot ä½¿ç”¨äº‹åŠ¡ç®¡ç†
 	
 	#web
 	Spring Boot Web
 	Spring Boot Web Restful api
 	Spring Boot Web Restful Docs
-	Spring Boot Web ÖĞÊ¹ÓÃAOP
+	Spring Boot Web ä¸­ä½¿ç”¨AOP
 	Spring Boot Web WebSocket
 	Spring Boot Web Service
 	Spring Boot Web Session
